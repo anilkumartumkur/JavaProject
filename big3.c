@@ -5,7 +5,7 @@ void biggest3(){
     int a, b, c;
     printf("Enter a,b,c: ");
     scanf("%d %d %d", &a, &b, &c);
-    
+   printf("Hello"); 
     if (a > b && a > c) {
         printf("a is Greater than b and c");
     }
